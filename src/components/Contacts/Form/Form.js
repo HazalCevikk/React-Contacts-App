@@ -21,7 +21,7 @@ addContact([...history, form]);
     <>
     <form onSubmit={onSubmit}>
     <div>
-      <input name='fullname' placeholder='Enter a fullname' value={form.fullname} onChange={onChangeInput}></input>
+      <input name='fullname' placeholder='Enter fullname' value={form.fullname} onChange={onChangeInput}></input>
     </div>
     <div>
       <input name='phone_number' placeholder='Enter the phone number' value={form.phone_number} onChange={onChangeInput}></input>
@@ -33,3 +33,4 @@ addContact([...history, form]);
 }
 
 export default Form
+
