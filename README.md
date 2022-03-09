@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Uygulama Açıklaması
+### `Uygulama Açıklaması`
 
 Bu çalışmayı aslında bir telefon rehberi mantığında düşünebiliriz. Çalışma iki bölümden oluşmaktadır. İlk bölüm list.js dosyası içerisinde yer alır, bir input ve sırasız listeden oluşan kısımdır.İkinci kısım ise form.js dosyasında yer alır, burada da iki input ve bir buton yapısı görürüz. İkinci kısım şu şekilde çalışır, inputlara girilen isim ve telefon numarası değerleri add butonuna basıldığında yukarıdaki listede listelenir ayrıca ilk kısımdaki input yardımı ile listelediğimiz her değere birkaç harf veya sayıyı aratarak ulaşabiliriz. 
 
